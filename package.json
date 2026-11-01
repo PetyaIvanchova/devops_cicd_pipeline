@@ -1,0 +1,12 @@
+{
+  "name": "cicd-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node calculator.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
